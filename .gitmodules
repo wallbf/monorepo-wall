@@ -1,0 +1,9 @@
+[submodule "packages/GCCine_customer"]
+	path = packages/GCCine_customer
+	url = https://github.com/wallbf/GCCine_customer
+[submodule "packages/GCCine_manager"]
+	path = packages/GCCine_manager
+	url = https://github.com/wallbf/GCCine_manager
+[submodule "packages/GCCine_server"]
+	path = packages/GCCine_server
+	url = https://github.com/wallbf/GCCine_server
